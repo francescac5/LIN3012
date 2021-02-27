@@ -4,7 +4,7 @@ The ReadMes found in the downloaded files can be followed in order to obtain all
 
 Alternatively the data and scripts can be found and accessed online via Google Colab from the files provided in the google drive directory at https://drive.google.com/drive/folders/1havlvbLokT0mjt5NsoByZ80Eie8eQO-X?usp=sharing 
 
-!!! SAVED MODELS CAN BE FOUND IN THIS GOOGLE DRIVE (These were not included in the zip file due to their size)
+!!! SAVED MODELS CAN BE FOUND IN THIS GOOGLE DRIVE
 To use these saved models they need to be stored in the empty folder "models". 
  
 ------------------------------------------------------------------------------------------------------------------------------------
