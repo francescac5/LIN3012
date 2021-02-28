@@ -2,10 +2,7 @@
 https://competitions.codalab.org/competitions/17344#learn_the_details-data
 The ReadMes found in the downloaded files can be followed in order to obtain all the data required for the Semeval task. 
 
-Alternatively the data and scripts can be found and accessed online via Google Colab from the files provided in the google drive directory at https://drive.google.com/drive/folders/1havlvbLokT0mjt5NsoByZ80Eie8eQO-X?usp=sharing 
-
-!!! SAVED MODELS CAN BE FOUND IN THIS GOOGLE DRIVE
-To use these saved models they need to be stored in the empty folder "models". 
+Alternatively the data, scripts and models can be found and accessed online via Google Colab from the files provided in the google drive directory at https://drive.google.com/drive/folders/1havlvbLokT0mjt5NsoByZ80Eie8eQO-X?usp=sharing 
  
 ------------------------------------------------------------------------------------------------------------------------------------
 
